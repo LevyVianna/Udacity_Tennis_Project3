@@ -23,6 +23,6 @@ The environment is considered solved, when the average (over 100 episodes) of th
     - Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86.zip)
     - Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86_64.zip)
    You will need to use this file when you run the "Solution" notebook
- 3. Run "jupyter notebook" and click in "Solution.ipynb" notebook.
- 4. You need to run the first cell from "Solution.ipynb" notebook - with the command "!pip -q install ./python" - to install all python dependencies.
- 5. In the "Solution.ipynb" notebook, in step 3, put the path of the Unity environment file downloaded.
+ 3. Run "jupyter notebook" and click in "Tennis.ipynb" notebook.
+ 4. You need to run the first cell from "Tennis.ipynb" notebook - with the command "!pip -q install ./python" - to install all python dependencies.
+ 5. In the "Tennis.ipynb" notebook, in step 3, put the path of the Unity environment file downloaded.
